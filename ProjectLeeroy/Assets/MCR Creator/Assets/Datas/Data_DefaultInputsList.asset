@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef3b8bd2e596d43a2a5862ef011fe871, type: 3}
+  m_Name: Data_DefaultInputsList
+  m_EditorClassIdentifier: 
+  ListOfInputs:
+  - Desktop:
+    - LeftArrow
+    - RightArrow
+    - UpArrow
+    - DownArrow
+    - 
+    - H
+    - 
+    - 
+    - 
+    Gamepad:
+    - Joystick1Axis1
+    - Joystick1Axis1
+    - Joystick1Axis10
+    - Joystick1Axis9
+    - 
+    - Joystick1Button3
+    - Joystick1Button0
+    - Joystick1Button6
+    - Joystick1Button7
+  - Desktop:
+    - S
+    - F
+    - E
+    - D
+    - 
+    - C
+    - 
+    - 
+    - 
+    Gamepad:
+    - Joystick2Axis1
+    - Joystick2Axis1
+    - Joystick2Axis10
+    - Joystick2Axis9
+    - 
+    - Joystick2Button3
+    - Joystick2Button0
+    - Joystick2Button6
+    - Joystick2Button7
